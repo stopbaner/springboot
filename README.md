@@ -12,5 +12,3 @@
 5. CommandLineRunner用于在应用初始化后，执行一段代码逻辑，在应用生命周期里只执行一次
 
 6. ApplicationRunner与CommandLineRunner参数不一样，app参数为ApplicationArguments，command为String数组
-
-7. 
